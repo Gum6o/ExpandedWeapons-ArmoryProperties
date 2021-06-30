@@ -1,0 +1,14 @@
+{
+  "name": "ewa",
+  "title": "Expaned Weapons & Armor Properties",
+  "description": "Adds Expanded Weapons & Armor's new weapon properties",
+  "version": "0.1",
+  "author": "Gumbo",
+  "systems": ["dnd5e"],
+  "styles": [],
+  "scripts": ["ewa.js"],
+  "manifest": "",
+  "download": "",
+  "minimumCoreVersion": "0.7.0",
+  "compatibleCoreVersion": "0.7.9"
+}
