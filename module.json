@@ -7,7 +7,7 @@
   "systems": ["dnd5e"],
   "styles": [],
   "scripts": ["ewa.js"],
-  "manifest": "",
+  "manifest": "https://github.com/Gum6o/ExpandedWeapons-ArmoryProperties/blob/main/module.json",
   "download": "",
   "minimumCoreVersion": "0.7.0",
   "compatibleCoreVersion": "0.7.9"
