@@ -8,7 +8,7 @@
   "styles": [],
   "scripts": ["ewa.js"],
   "manifest": "https://raw.githubusercontent.com/Gum6o/ExpandedWeapons-ArmoryProperties/main/module.json",
-  "download": "",
+  "download": "https://github.com/Gum6o/ExpandedWeapons-ArmoryProperties/archive/main.zip",
   "minimumCoreVersion": "0.7.0",
   "compatibleCoreVersion": "0.7.9"
 }
