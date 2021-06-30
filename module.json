@@ -3,11 +3,11 @@
   "title": "Expaned Weapons & Armor Properties",
   "description": "Adds Expanded Weapons & Armor's new weapon properties",
   "version": "0.1",
-  "author": "Gumbo",
+  "author": "Gum6o",
   "systems": ["dnd5e"],
   "styles": [],
   "scripts": ["ewa.js"],
-  "manifest": "https://github.com/Gum6o/ExpandedWeapons-ArmoryProperties/blob/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/Gum6o/ExpandedWeapons-ArmoryProperties/main/module.json",
   "download": "",
   "minimumCoreVersion": "0.7.0",
   "compatibleCoreVersion": "0.7.9"
